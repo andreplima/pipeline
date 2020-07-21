@@ -1,4 +1,6 @@
 # pipeline
-Textual content preprocessing pipeline developed in Python and NLTK over Apache Spark.
-Code employed a technical report which compared different tools and resources to preprocess textual content: https://www.researchgate.net/profile/Sarajane_Peres/publication/329874672_Uma_analise_comparativa_das_ferramentas_de_pre-processamento_de_dados_textuais_NLTK_PreTexT_e_R/links/5c1ebac492851c22a33fd237/Uma-analise-comparativa-das-ferramentas-de-pre-processamento-de-dados-textuais-NLTK-PreTexT-e-R.pdf
-(in Portuguese)
+An example on how to preprocess textual content using Python with NLTK and PySpark + NLTK.
+Code employed a technical report in which  different tools and resources to preprocess textual content are compared:
+
+Diaz, A. K. R., de Lima, A. P., Silva, A. M., da Silva Costa, F. H., Pagnossim, J. L. M., & Peres, S. M. (2018). Relatorio Técnico PPgSI-001/2018 Uma analise comparativa das ferramentas de pré-processamento de dados textuais: NLTK, PreTexT e R.
+(available here: https://tinyurl.com/y2tt7j2o)
